@@ -8,9 +8,3 @@ services: mongodb
 
 notifications:
   slack: au101:xUDeAWK2n3Ll5i03Zvss0zPd
-
-deploy:
-  access_key_id: "AKIAI4VUMU7UXQG2STNA"
-  secret_access_key: "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"
-  application: hello-jenkins
-  deployment_group: test
